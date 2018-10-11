@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "news-webpart-client-side-solution",
+    "id": "2fe942c9-3d88-41f0-a50b-27704a0cba08",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/news-webpart.sppkg"
+  }
+}
